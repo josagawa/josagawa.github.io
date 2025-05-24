@@ -4,7 +4,6 @@ Hi, I am Josiah and I am a UCSC student
 
 Here are my projects:
 - 
-- 
 - [Uploading Art final.html…]()<!DOCTYPE html>
 <html>
 <head>
