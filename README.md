@@ -3,7 +3,7 @@
 Hi, I am Josiah and I am a UCSC student
 
 Here are my projects:
-- [Twine](https://josagawa.github.io/twine)
+- 
 - 
 - [Uploading Art final.html…]()<!DOCTYPE html>
 <html>
